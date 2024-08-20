@@ -1,4 +1,4 @@
-# game-coinflip-cob
+# coinflip-cob-game
 This is the coinflip program for CobGame studios.
 
 ## Install Dependencies
